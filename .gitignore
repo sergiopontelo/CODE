@@ -1,7 +1,1 @@
-target
-pom.xml.release
-pom.xml.versions
-pom.xml.nextrelease.propertiesdependency-reduced-pom.xmluildNumber.properties
-.mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
-.mvn/wrapper/maven-wrapper.jar
+Colocar os recursos de edição de textos como no Word.
